@@ -1,5 +1,5 @@
 # huaweicloud-education
-Act as an engineer of AI in huawei
+Act as an engineer of AI in huawei.
 
 # ALL THE COURSES HERE
 https://education.huaweicloud.com/programs/2708d678-5dbb-4be2-afc4-88ae69f0dca3/about  
